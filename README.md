@@ -3,6 +3,7 @@
 # Data Scientist 
 
 ###  Education
+masters degree: NJIT
 
 ### Work Experience 
 
